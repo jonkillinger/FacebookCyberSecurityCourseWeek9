@@ -38,3 +38,5 @@ Attacks in the last 24 hours of test (4/5/18 - 4/6/18):
 Notes:
 mhn-honeypot-3 (Snort) needed -Pn argument for nmap utility to function against server.
 mhn-honeypot-4 (Shockpot) did not function as expected (no attacks detected). Upon search engine research, server may have needed to be rebooted, and Shockpot deploy script needed to be re-ran (https://github.com/threatstream/shockpot/issues/4)
+
+[!Gif](https://github.com/jonkillinger/FacebookCyberSecurityCourseWeek9/blob/master/12.gif?raw=true)
